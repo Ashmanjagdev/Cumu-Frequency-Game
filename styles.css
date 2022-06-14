@@ -38,6 +38,7 @@ h1{
   margin: 1%;
   margin-bottom: 0;
   cursor: pointer;
+  touch-action: manipulation
 }
 .blue{
   height:200px;
@@ -49,6 +50,7 @@ h1{
   margin: 1%;
   margin-bottom: 0;
   cursor: pointer;
+  touch-action: manipulation
 }
 .pink{
   height:200px;
@@ -59,6 +61,7 @@ h1{
   border-style: solid;
   margin: 1%;
   cursor: pointer;
+  touch-action: manipulation
 }
 .orange{
   height:200px;
@@ -69,6 +72,7 @@ h1{
   border-style: solid;
   margin: 1%;
   cursor: pointer;
+  touch-action: manipulation
 }
 .pressed{
   box-shadow: 0 3px 4px 0 #DBEDF3;
